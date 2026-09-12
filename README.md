@@ -4,10 +4,11 @@
 - 💞️ I’m looking forward to making connections with people in the field of cybersecurity
 - 📫 How to reach me: toure10yohann@gmail.com
 - LinkedIn: https://www.linkedin.com/in/yohann-toure-33023631a/
+- Instagram: yohann30_
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am ready to learn from anyone in the world of tech
 
 <!---
-sinxdev/sinxdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+YohannT07/YohannT07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
